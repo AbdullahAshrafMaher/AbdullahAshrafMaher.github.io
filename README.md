@@ -4,8 +4,8 @@ Welcome to my portfolio! This repository contains the source code for my persona
 
 ## How to Use
 
-- **Live Site:** [Link to your GitHub Pages site]
-- **Resume:** [Link to resume.pdf]
+- **Live Site:** [[Link to your GitHub Pages site]](https://abdullahashrafmaher.github.io/)
+- **Resume:** [[Link to resume.pdf]](https://abdullahashrafmaher.github.io/Abdallah_Ashraf_ML_Engineer.pdf)
 
 ## Technologies Used
 
